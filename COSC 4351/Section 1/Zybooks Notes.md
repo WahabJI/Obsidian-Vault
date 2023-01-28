@@ -57,3 +57,4 @@
 	- **Query string**: Optional characters to the right of the "?" in a URL that provides data for the web server.
 	- **Fragment**: Optional characters at the end of a URL that start with a "#" and refer to a certain location within a webpage.
 - If a web server is reached but the specific requested page isn't found, the server returns a ***404*** status code.
+- 

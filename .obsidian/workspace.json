@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zybooks Notes.md",
+                "file": "COSC 4351/Section 1/Zybooks Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zybooks Notes.md",
+                "file": "COSC 4351/Section 1/Zybooks Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zybooks Notes.md",
+                "file": "COSC 4351/Section 1/Zybooks Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zybooks Notes.md"
+                "file": "COSC 4351/Section 1/Zybooks Notes.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "833d250792d11d53",
   "lastOpenFiles": [
     "Zybooks Notes.md",
+    "README.md",
     "Pasted image 20230123162355.png",
     "Pasted image 20230123165552.png",
     "Pasted image 20230123162334.png",
