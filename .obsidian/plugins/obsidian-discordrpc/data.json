@@ -4,7 +4,7 @@
   "showPopups": true,
   "customVaultName": "",
   "showFileExtension": true,
-  "useLoadedTime": false,
+  "useLoadedTime": true,
   "connectOnStart": true,
   "autoHideStatusBar": true
 }
