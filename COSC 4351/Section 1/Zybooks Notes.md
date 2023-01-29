@@ -111,6 +111,12 @@
 
 ## Section 1.5
 
-- ==Common HTML elements==
+- ==Common HTML Elements==
 ![[Pasted image 20230128203953.png]]
+- ==HTML Basic Formatting Examples==
+![[Pasted image 20230128204209.png]]
+- Not much to this section as it is basic HTML
 
+## Section 1.6
+
+- 
