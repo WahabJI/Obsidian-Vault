@@ -72,4 +72,9 @@
 		- A <u>responses</u> start line includes a status code and phrase?
 	- ==Header Fields:== There can be >= 0 header fields. There are a keyword that is followed by a colon and a value. They supply additional information about the req or res.
 	- ==Empty Line==
-	- ==Message Body:== A message body contains data being transferred between a web browser and web server. In a re
+	- ==Message Body:== A message body contains data being transferred between a web browser and web server. 
+		- In a req, a message body may be empty or contain submitted form data.
+		- In a res, the message body may contain the requested resource.
+	- ![[Pasted image 20230128200743.png]] 
+	- The ***Internet Assigned Numbers Authority (IANA)*** is a standards org that manages various internet numbers and symbols like global IP address allocation, root zone management in DNS, and media types.
+	- 
