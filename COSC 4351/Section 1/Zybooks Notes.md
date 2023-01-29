@@ -66,4 +66,10 @@
 	- An ***HTTP*** <u>request</u> is a message sent from web browser to the web server often used to send back information.
 	- An ***HTTP*** <u>response</u> is a message sent from the web server back to the web browser in a response to a HTTP request.
 	- ***Transmission Control Protocol/Internet Protocol (TCP/IP)*** is a protocol suite that governs how data packets are transferred over the internet from one machine to another. 
-- An HTTP <u>request</u> and HTTP <u>response</u> are both composed  
+- An HTTP <u>request</u> and HTTP <u>response</u> are both composed of 4 parts:
+	- ==Start Line:== the start line specifies the HTTP version being used.
+		- A <u>requests</u> start line includes a request type and path
+		- A <u>responses</u> start line includes a status code and phrase?
+	- ==Header Fields:== There can be >= 0 header fields. There are a keyword that is followed by a colon and a value. They supply additional information about the req or res.
+	- ==Empty Line==
+	- ==Message Body:== A message body contains data being transferred between a web browser and web server. In a re
