@@ -66,4 +66,4 @@
 	- An ***HTTP*** <u>request</u> is a message sent from web browser to the web server often used to send back information.
 	- An ***HTTP*** <u>response</u> is a message sent from the web server back to the web browser in a response to a HTTP request.
 	- ***Transmission Control Protocol/Internet Protocol (TCP/IP)*** is a protocol suite that governs how data packets are transferred over the internet from one machine to another. 
-- 
+- An HTTP <u>request</u> and HTTP <u>response</u> are both composed  
