@@ -86,4 +86,7 @@
 	- An ***entity tag (ETag)*** is an identifier for a specific version of a web resource. When a resource changes, so should the ETag associated with the resource.
 	- ==Network Sniffer:== is a software that monitors network traffic and allows users to inspect HTTP requests and responses
 		- **HTTPS** encrypts HTTP traffic between a broswer and web server so that a netwrok sniffer cannot intercept sensitive information like passwords, credit card numbers etc.
-	- HTTPS uses a protocol called ***Transport Layer Security (TLS)***, which us
+	- HTTPS uses a protocol called ***Transport Layer Security (TLS)***, which uses asymmetric public keys to encrypt data. For a website to use HTTPS, it must acquire a <u>digital certificate</u>, issued by a trusted <u>certificate authority</u>, that contains a public key used by TLS to encrypt said data.
+	- ==Steps in an HTTPS transaction==
+	- ![[Pasted image 20230128202300.png]]
+	- 
