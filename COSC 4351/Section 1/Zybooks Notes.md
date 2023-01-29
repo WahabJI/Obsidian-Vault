@@ -63,5 +63,7 @@
 	- *HTTP/1.1* used for most of the web's life time.
 	- *HTTP/2* is a reltively new HTTP standard that speeds-up the transfer of information between web browsers and web servers.
 	- *HTTP/3* is currently in development and improves the speed of the previous version by using UDP to transport data packets instead of TCP.
-	- 
+	- An ***HTTP*** <u>request</u> is a message sent from web browser to the web server often used to send back information.
+	- An ***HTTP*** <u>response</u> is a message sent from the web server back to the web browser in a response to a HTTP request.
 	- ***Transmission Control Protocol/Internet Protocol (TCP/IP)*** is a protocol suite that governs how data packets are transferred over the internet from one machine to another. 
+- 
