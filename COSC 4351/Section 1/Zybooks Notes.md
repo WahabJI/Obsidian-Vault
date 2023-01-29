@@ -127,4 +127,7 @@
 
 ## Section 1.7 
 
-- 
+- **Javascript** runs in a browser, enabling webpages supporting actions like responding to a button click.
+- ==JavaScript Button Click Example==
+![[Pasted image 20230128210437.png]]
+
