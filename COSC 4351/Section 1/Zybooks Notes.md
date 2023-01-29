@@ -119,4 +119,4 @@
 
 ## Section 1.6
 
-- 
+- A ***CSS Rule*** specifies styling properties for specific HTML elements. They may be placed within \<style> tags in the HTML file's head part
