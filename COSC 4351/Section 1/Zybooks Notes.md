@@ -130,4 +130,9 @@
 - **Javascript** runs in a browser, enabling webpages supporting actions like responding to a button click.
 - ==JavaScript Button Click Example==
 ![[Pasted image 20230128210437.png]]
+- Javascript is very versatile and enables you to do a variety of things to make your website more interactive.
 
+
+# Section 2
+
+## Section 2.1
