@@ -59,5 +59,8 @@
 - If a web server is reached but the specific requested page isn't found, the server returns a ***404*** status code.
 ## Section 1.3
 
-- The ***HyperText Transfer Protocol (HTTP)*** is a networking protocol that runs 
+- The ***HyperText Transfer Protocol (HTTP)*** is a networking protocol that runs over TCP/IP and governs communication between web browsers and web servers.
+	- *HTTP/1.1* used for most of the web's life time.
+	- *HTTP/2* is a reltively new HTTP standard that speeds-up the transfer of information between web browsers and web servers.
+	- *HTTP/3* is currently in development and improves the speed of the previous version by using UDP to transport data packets instead of TCP.
 
