@@ -93,4 +93,14 @@
 ## Section 1.4
 - ==Important Mobile Development Topics==
 - ![[Pasted image 20230128202938.png]]
-- **Internet of Things (IoT):** The global collection of communic 
+- **Internet of Things (IoT):** The global collection of communicating devices that sense and control technology on behalf of humans. These can range from temperature sensors to a satellite-based laser scanner used to discover archaelogical sites hidden by vegetation. They display >= 1 of the following characteristics:
+	- Gather information about the physical world
+	- Share the sensor data with control systems
+	- Interact with hardware to execute commands sent by control systems.
+- **Web Accessibility:** The ability of users with disabilities to access and use a webpage with reasonable efforts. Some conditions affecting this are:
+	- Visual problems
+	- Hand control issues
+	- Seizures caused by flashing
+	- Cognitive challenges such as dyslexia
+- 
+**Cognitive Computing:** The use of artificial intelligence techniques and access to vast amounts of data to simulate human problem soling in complex situatio
