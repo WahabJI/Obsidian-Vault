@@ -77,4 +77,10 @@
 		- In a res, the message body may contain the requested resource.
 	- ![[Pasted image 20230128200743.png]] 
 	- The ***Internet Assigned Numbers Authority (IANA)*** is a standards org that manages various internet numbers and symbols like global IP address allocation, root zone management in DNS, and media types.
-	- 
+	- ==**Common HTTP request methods**==
+	- ![[Pasted image 20230128201127.png]]
+	- ==**Common HTTP response status codes**==
+	- ![[Pasted image 20230128201202.png]]
+	- ***URL Shortneing*** is a technique to create shorter URLs. They are convenient for sharing on social media. These shorter URLs repond with 301 status code and a Location header with the webpage's full URL.
+	- A **browser cache** is an area on the computer's file system where web content can be stored by the web browser for a quick retrieval later and can reduce the amount of net traffic required to display previously visited webpages.
+	- An ***entuty tag (ETag)***
