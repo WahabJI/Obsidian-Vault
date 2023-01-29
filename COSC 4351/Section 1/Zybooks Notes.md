@@ -89,4 +89,8 @@
 	- HTTPS uses a protocol called ***Transport Layer Security (TLS)***, which uses asymmetric public keys to encrypt data. For a website to use HTTPS, it must acquire a <u>digital certificate</u>, issued by a trusted <u>certificate authority</u>, that contains a public key used by TLS to encrypt said data.
 	- ==Steps in an HTTPS transaction==
 	- ![[Pasted image 20230128202300.png]]
-	- 
+
+## Section 1.4
+- ==Important Mobile Development Topics==
+- ![[Pasted image 20230128202938.png]]
+- **Internet of Things (IoT):** The global collection of communic 
