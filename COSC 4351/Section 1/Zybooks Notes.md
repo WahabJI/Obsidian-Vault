@@ -82,5 +82,8 @@
 	- ==**Common HTTP response status codes**==
 	- ![[Pasted image 20230128201202.png]]
 	- ***URL Shortneing*** is a technique to create shorter URLs. They are convenient for sharing on social media. These shorter URLs repond with 301 status code and a Location header with the webpage's full URL.
-	- A **browser cache** is an area on the computer's file system where web content can be stored by the web browser for a quick retrieval later and can reduce the amount of net traffic required to display previously visited webpages.
-	- An ***entuty tag (ETag)***
+	- A ***browser cache*** is an area on the computer's file system where web content can be stored by the web browser for a quick retrieval later and can reduce the amount of net traffic required to display previously visited webpages.
+	- An ***entity tag (ETag)*** is an identifier for a specific version of a web resource. When a resource changes, so should the ETag associated with the resource.
+	- ==Network Sniffer:== is a software that monitors network traffic and allows users to inspect HTTP requests and responses
+		- **HTTPS** encrypts HTTP traffic between a broswer and web server so that a netwrok sniffer cannot intercept sensitive information like passwords, credit card numbers etc.
+	- HTTPS uses a protocol called ***Transport Layer Security (TLS)***, which us
