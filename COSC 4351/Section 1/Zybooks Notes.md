@@ -75,12 +75,12 @@
 	- ==Message Body:== A message body contains data being transferred between a web browser and web server. 
 		- In a req, a message body may be empty or contain submitted form data.
 		- In a res, the message body may contain the requested resource.
-	- ![[Pasted image 20230128200743.png]] 
+	![[Pasted image 20230128200743.png]] 
 	- The ***Internet Assigned Numbers Authority (IANA)*** is a standards org that manages various internet numbers and symbols like global IP address allocation, root zone management in DNS, and media types.
 	- ==**Common HTTP request methods**==
-	- ![[Pasted image 20230128201127.png]]
+	![[Pasted image 20230128201127.png]]
 	- ==**Common HTTP response status codes**==
-	- ![[Pasted image 20230128201202.png]]
+	![[Pasted image 20230128201202.png]]
 	- ***URL Shortneing*** is a technique to create shorter URLs. They are convenient for sharing on social media. These shorter URLs repond with 301 status code and a Location header with the webpage's full URL.
 	- A ***browser cache*** is an area on the computer's file system where web content can be stored by the web browser for a quick retrieval later and can reduce the amount of net traffic required to display previously visited webpages.
 	- An ***entity tag (ETag)*** is an identifier for a specific version of a web resource. When a resource changes, so should the ETag associated with the resource.
@@ -88,11 +88,12 @@
 		- **HTTPS** encrypts HTTP traffic between a broswer and web server so that a netwrok sniffer cannot intercept sensitive information like passwords, credit card numbers etc.
 	- HTTPS uses a protocol called ***Transport Layer Security (TLS)***, which uses asymmetric public keys to encrypt data. For a website to use HTTPS, it must acquire a <u>digital certificate</u>, issued by a trusted <u>certificate authority</u>, that contains a public key used by TLS to encrypt said data.
 	- ==Steps in an HTTPS transaction==
-	- ![[Pasted image 20230128202300.png]]
+	![[Pasted image 20230128202300.png]]
 
 ## Section 1.4
+
 - ==Important Mobile Development Topics==
-- ![[Pasted image 20230128202938.png]]
+![[Pasted image 20230128202938.png]]
 - **Internet of Things (IoT):** The global collection of communicating devices that sense and control technology on behalf of humans. These can range from temperature sensors to a satellite-based laser scanner used to discover archaelogical sites hidden by vegetation. They display >= 1 of the following characteristics:
 	- Gather information about the physical world
 	- Share the sensor data with control systems
@@ -102,5 +103,14 @@
 	- Hand control issues
 	- Seizures caused by flashing
 	- Cognitive challenges such as dyslexia
-- 
-**Cognitive Computing:** The use of artificial intelligence techniques and access to vast amounts of data to simulate human problem soling in complex situatio
+- **Cognitive Computing:** The use of artificial intelligence techniques and access to vast amounts of data to simulate human problem soling in complex situations with ambiguity, changing data and even conflicting information.
+- **Seperation of Concerns:** A design principle of breaking up web content using distinct languages and documents that overlap as little as possible. This is broken up into 3 key languages;
+	- <u>HTML</u> is the language that describes the page content
+	- <u>CSS</u> is the language that describes page layout
+	- <u>JavaScript</u> is the language that provides interactive functionality
+
+## Section 1.5
+
+- ==Common HTML elements==
+![[Pasted image 20230128203953.png]]
+
