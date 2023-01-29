@@ -122,4 +122,9 @@
 - A ***CSS Rule*** specifies styling properties for specific HTML elements. They may be placed within \<style> tags in the HTML file's head part.
 - ==Common CSS Properties==
 ![[Pasted image 20230128205455.png]]
-- You can
+- You can define an rgb value beforehand and give it a name to use within your project. RGB here stands for red, green, blue values and determines the shade of the color.
+- Note that CSS is used for styling that a page and be very versatile when it comes to how it is utilized. This is especially the case when you have frameworks such as <u>TailwindCSS</u>.
+
+## Section 1.7 
+
+- 
